@@ -18,5 +18,5 @@ func main() {
 
 	// operation will be performed on the actual value.
 	*ptr = *ptr + 1
-	fmt.Println("Value of the pointer: ", myNumber)
+	fmt.Println("Value of the pointer: ", myNumber) //24
 }
